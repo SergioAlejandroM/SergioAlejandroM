@@ -1,6 +1,23 @@
 <h1 align="center"><b>Hola , Yo soy Sergio Manrique </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
+
+
+## About Me
+⛰️ Soy de Bogota, Colombia<br>
+🎓 Estudio Ciencia de datos y desarrollo de software<br>
+🌱 Áreas de interes por aprendizaje: Big Data e Inteligencia Artificial<br>
+
+
+
+## My Skills:
+💻 Python | SQL<br>
+📚 Pandas | Numpy | Matplotlib | Seaborn | Scikit-learn | FastAPIbr>
+🛢  MySQL | Cloud Storage | Azure<br>
+🔧 Docker | Airflow | Hadoop | Hive | Spark<br>
+📊 Power BI<br>
+⚙️ GitHub | Jupyter | Google Colab | Visual Studio Code<br>
+
 # 📊 GitHub Stats:
 <p align="center">
 <!--- stats (start) -->

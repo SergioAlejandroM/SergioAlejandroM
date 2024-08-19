@@ -1,7 +1,7 @@
 <h1 align="center"><b>Hola , Yo soy Sergio Manrique </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
-
+Soy Sergio Manrique, recién graduado en Data Science. Tengo experiencia en servicio al cliente y conocimientos básicos en desarrollo web. Estoy enfocado en mejorar mis habilidades como ingeniero de datos y explorar el mundo del Big Data y el Machine Learning. Siempre estoy dispuesto a aprender y enfrentar nuevos desafíos en el ámbito de los datos.<br>
 
 ## About Me
 ⛰️ Soy de Bogota, Colombia<br>

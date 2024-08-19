@@ -41,6 +41,6 @@ Soy Sergio Manrique, recién graduado en Data Science. Tengo experiencia en serv
 </div>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,css,discord,figma,github,html,java,js,linux,md,mysql,py,vscode,eclipse,azure" />
+    <img src="https://skillicons.dev/icons?i=git,css,discord,figma,github,html,java,js,linux,md,mysql,py,vscode,eclipse,azure,pandas" />
   </a>
 </p>

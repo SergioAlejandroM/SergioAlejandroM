@@ -12,7 +12,7 @@ Soy Sergio Manrique, recién graduado en Data Science. Tengo experiencia en serv
 
 ## My Skills:
 💻 Python | SQL<br>
-📚 Pandas | Numpy | Matplotlib | Seaborn | Scikit-learn | FastAPIbr>
+📚 Pandas | Numpy | Matplotlib | Seaborn | Scikit-learn | FastAPI<br>
 🛢  MySQL | Cloud Storage | Azure<br>
 🔧 Docker | Airflow | Hadoop | Hive | Spark<br>
 📊 Power BI<br>
